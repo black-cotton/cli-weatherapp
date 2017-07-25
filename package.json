@@ -1,0 +1,11 @@
+{
+  "name": "cli-weatherapp",
+  "version": "1.0.0",
+  "description": "A command-line interface app that delivers current weather data based on the city requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farid Wilhelm Zimmermann",
+  "license": "ISC"
+}
